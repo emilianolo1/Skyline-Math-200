@@ -1,0 +1,41 @@
+Date,Day_of_the_week,App_(Use_all_CAPITALS),Minutes,Category
+8/27,Sunday,TIKTOK,93,Entertainment
+8/27,Sunday,INSTAGRAM,77,Social Media
+8/27,Sunday,X,9,Social Media
+8/27,Sunday,MESSAGES,72,Entertainment
+8/27,Sunday,SAFARI,6,Other
+8/28,Monday,DISCORD,49,Social Media
+8/28,Monday,Youtube,66,Entertainment
+8/28,Monday,INSTAGRAM,28,Social Media
+8/28,Monday,MESSAGES,17,Entertainment
+8/28,Monday,SNAPCHAT,11,Social Media
+8/28,Monday,NOTES,9,Other
+8/29,Tuesday,DISCORD,67,Entertainment
+8/29,Tuesday,TIKTOK ,95,Entertainment
+8/29,Tuesday,SNAPCHAT,20,Social Media
+8/29,Tuesday,SAFARI,12,Other
+8/29,Tuesday,CALCULATOR,9,Education
+8/30,Wednesday,TIKTOK,120,Social Media
+8/30,Wednesday,DISCORD,65,Entertainment
+8/30,Wednesday,MESSAGES,72,Other
+8/30,Wednesday,CALCULATOR,21,Education
+8/30,Wednesday,SNAPCHAT,21,Social Media
+8/30,Wednesday,YOUTUBE,16,Entertainment
+8/31,Thursday,DISCORD,75,Entertainment
+8/31,Thursday,TIKTOK,120,Entertainment
+8/31,Thursday,MESSAGES,32,Entertainment
+8/31,Thursday,CALCULATOR,29,Education
+8/31,Thursday,INSTAGRAM,22,Social Media
+8/31,Thursday,SNAPCHAT,16,Social Media
+9/1,Friday,TIKTOK,73,Education
+9/1,Friday,DISCORD,49,Entertainment
+9/1,Friday,MESSAGES,21,Entertainment
+9/1,Friday,SNAPCHAT,20,Social Media
+9/1,Friday,INSTAGRAM,20,Social Media
+9/1,Friday,SAFARI,14,Other
+9/2,Saturday,TIKTOK,73,Entertainment
+9/2,Saturday,SNAPCHAT,34,Social Media
+9/2,Saturday,INSTAGRAM,21,Social Media
+9/2,Saturday,MESSAGES,18,Entertainment
+9/2,Saturday,DISCORD,8,Entertainment
+9/2,Saturday,YOUTUBE,5,Education
